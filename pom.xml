@@ -23,16 +23,9 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<lombok.version>1.16.16</lombok.version>
-		<guava.version>14.0.1</guava.version>
 		<fastjson.version>1.2.15</fastjson.version>
 		<perf4j.version>0.9.16</perf4j.version>
-		<sq.drm.version>1.0</sq.drm.version>
 		<apache.commons.lang3.version>3.3.2</apache.commons.lang3.version>
-		<hystrix.version>1.5.11</hystrix.version>
-		<sq.redis.version>1.0.1</sq.redis.version>
-		<rocketmq.version>4.1.0-incubating</rocketmq.version>
-		<s2.geometry.library.version>0.0.1</s2.geometry.library.version>
-		<lbs.hbase.version>1.0</lbs.hbase.version>
 	</properties>
 
 	<dependencies>
