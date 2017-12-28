@@ -1,5 +1,5 @@
 body {
-    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.7;
     word-wrap: break-word;
@@ -23,7 +23,7 @@ a {
 }
 
 .limit-text {
-    overflow : hidden;
+    overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 2;
@@ -34,4 +34,13 @@ a {
     width: 11px;
     height: 20px;
     background-position: -180px -38px;
+}
+
+.btn-blue {
+    float: right;
+    border-radius: 5px;
+    border: none;
+    background-color: #337ab7;
+    width: 20%;
+    color: #ffffff;
 }
