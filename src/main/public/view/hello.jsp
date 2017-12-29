@@ -38,6 +38,7 @@
                 <button class="meta-item item-collapse js-collapse">
                     <i class="z-icon-fold"></i>收起
                 </button>
+                </a>
             </div>
             <div class="zm-meta-panel">
                 <div style="float: left;color: darkgoldenrod">

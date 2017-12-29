@@ -44,3 +44,28 @@ a {
     width: 20%;
     color: #ffffff;
 }
+
+.clearfix {
+    overflow: auto;
+    zoom: 1;
+}
+
+.top_point {
+    float: right;
+    margin: -21px 23px 4px 0px;
+    font-size: 30px;
+    color: #d0d0d0;
+    opacity: 1;
+    overflow: auto;
+    line-height: 15px;
+}
+
+.h-huifu-div {
+    width: 90%;
+    float: right;
+    margin: 10px;
+    padding: 15px;
+    font-size: 14px;
+    background-color: #d0d0d0;
+    border-radius: 5px;
+}
